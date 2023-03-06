@@ -127,3 +127,11 @@ List<String> stringList = List<String>.from(keys.map((item) => item.toString()))
 
 
 ///@HiveType (typeId: 0)
+
+class DailyRecod {
+
+}
+
+DailyRecordAdapter extends TypeAdopter<DailyRecod>{
+  
+}

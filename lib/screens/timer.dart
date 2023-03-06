@@ -1,10 +1,19 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
+import '../db/db.dart';
 
 class TimerWidget extends StatefulWidget {
   final Duration duration;
+  String unit;
+  String lesson;
+  String outcome;
 
-  const TimerWidget({Key? key, this.duration = Duration.zero})
+  TimerWidget(
+      {Key? key,
+      this.duration = Duration.zero,
+      required this.unit,
+      required this.lesson,
+      required this.outcome})
       : super(key: key);
 
   @override
@@ -16,6 +25,7 @@ class _TimerWidgetState extends State<TimerWidget> {
   int minutes = 0;
   int hours = 0;
   Timer? _timer;
+  bool isPoused = false;
 
   void timerStart() {
     _timer = Timer.periodic(Duration(seconds: 1), (timer) {
@@ -82,24 +92,41 @@ class _TimerWidgetState extends State<TimerWidget> {
       Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
-          ElevatedButton(
-            onPressed: () {
-              // Perform stop action
-            },
-            child: Text('Stop'),
-          ),
-          ElevatedButton(
-            onPressed: () {
-              // Perform pause action
-            },
-            child: Text('Pause'),
-          ),
-          ElevatedButton(
-            onPressed: () {
-              // Perform restart action
-            },
-            child: Text('Restart'),
-          ),
+          ElevatedButton.icon(
+              onPressed: () {
+                _timer!.cancel();
+                // Perform stop action
+              },
+              label: Text('Stop'),
+              icon: Icon(Icons.stop)),
+          ElevatedButton.icon(
+              onPressed: () {
+                if (isPoused) {
+                  setState(()=>{
+                  timerStart();
+
+                  });
+                } else {
+                  setState(()=>{
+                                      _timer!.cancel();
+
+                  })
+                }
+              },
+              label: Text('Pause'),
+              icon: Icon(!isPoused ? Icons.pause : Icons.play_arrow)),
+          ElevatedButton.icon(
+              onPressed: () {
+                setState(() {
+                  seconds = 0;
+                  minutes = 0;
+                  hours = 0;
+                  // print("hhhhhh");
+                });
+                // Perform restart action
+              },
+              label: Text('Restart'),
+              icon: Icon(Icons.restart_alt)),
         ],
       )
     ]));
