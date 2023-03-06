@@ -107,10 +107,10 @@ class _TimerWidgetState extends State<TimerWidget> {
 
                   });
                 } else {
-                  setState(()=>{
-                                      _timer!.cancel();
-
-                  })
+                  setState((){
+                 _timer!.cancel();
+                  
+                  });
                 }
               },
               label: Text('Pause'),
