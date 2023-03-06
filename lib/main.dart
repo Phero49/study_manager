@@ -1,41 +1,42 @@
 import 'package:flutter/material.dart';
+import 'package:hive/hive.dart';
+import 'package:path_provider/path_provider.dart';
+import 'package:hive_flutter/hive_flutter.dart';
+import "./db/db.dart";
+import "./screens/home.dart";
+import "./screens/course.dart";
+void main() async {
+    //WidgetsFlutterBinding.ensureInitialized();
+  
+//var appDocDir = await //getApplicationDocumentsDirectory();
+//String appDocPath = appDocDir.path;
+ 
+   await Hive.initFlutter();
+  // Initialize Hive'
+ // Hive.registerAdapter(DailyRecordAdapter());
 
-void main() => runApp(MyApp());
+bool exists = await Hive.boxExists('myCourses');
+    print(exists);
+    if(exists){
+        
+        var db = Db();
+        //print("kkk ");
+    await  db.addAppDataToBox ();
+     db.historyBox();
+        }
+    
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      // Application name
-      title: 'Flutter Hello World',
-      // Application theme data, you can set the colors for the application as
-      // you want
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      // A widget which will be started on application startup
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
-    );
-  }
-}
-
-class MyHomePage extends StatelessWidget {
-  final String title;
-  const MyHomePage({Key? key, required this.title}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        // The title text which will be shown on the action bar
-        title: Text(title),
-      ),
-      body: Center(
-        child: Text(
-          'Hello, World!',
-        ),
-      ),
+      routes: {
+  ///  '/course': (context) => MyCourse(),
+  },
+      title: 'my study guid',
+      home: HomePage()
     );
   }
 }
