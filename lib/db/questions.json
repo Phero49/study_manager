@@ -1,0 +1,1727 @@
+[
+  {
+    "queston": [
+      "Question 2 ",
+      "Question 3 ",
+      "Explain the operational aspects of the enterprise architecture lifecycle. (10 marks) ",
+      "Explain the governance and compliance processes within an enterprise architecture.  \n(10 marks) ",
+      "(a) ",
+      "(b) ",
+      "Question 5 ",
+      "Question 6 ",
+      "Question 7 ",
+      "Explain how to assess the ability of an enterprise architecture to meet future requirements.  \n(10 marks)  ",
+      "Explain how to assess the ability of an enterprise architecture to mitigate risks. (10 marks)  "
+    ],
+    "questionNum": [
+      "Discuss how to develop an enterprise architecture. (20 marks) ",
+      "Contrast the methodology, processes and practices of the FOUR main enterprise architecture frameworks, including the role \nof the architect within the different frameworks and the process by which artefacts are created in each framework. (20 \nmarks) ",
+      "Question 4 ",
+      "Discuss the various processes of enterprise record management (ERM). (12 marks) ",
+      "Explain in detail the attributes of authenticity, reliability, usability and integrity within an ERM.  \n(8 marks) ",
+      "Discuss an organisation\u2019s processes for an enterprise architecture, including the value of development of straw-man \nproducts and the functional models. (20 marks) ",
+      "Analyse how to quantify the effectiveness of an enterprise architecture. (20 marks) ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "Level 6 Diploma ",
+    "level": "    UNIT 2 \u2013 ENTERPRISE ARCHITECTURE ",
+    "unit": "Question 1 ",
+    "year": "2014-08",
+    "serie": "Dec2013-Unit-2"
+  },
+  {
+    "queston": [
+      "Question 2 ",
+      "(b)  ",
+      "Summarise the lifecycle of an enterprise architecture, analysing how it may respond to \nchanges in an organisation and the market. (10 marks) ",
+      "Critically evaluate TWO types of analysis which may be required to identify gaps between current \nand intended states of enterprise architecture. (20 marks) ",
+      "(a)  ",
+      "Compare and contrast the roles of authenticity and reliability within enterprise record \nmanagement. (10 marks) ",
+      "Question 5 ",
+      "Question 6 ",
+      "Discuss the relationship between budget and risk in terms the impact of enterprise \narchitecture. (10 marks) ",
+      "Analyse how to quantify the effectiveness of an enterprise architecture. (10 marks) ",
+      "Critically assess the value of straw-man products. (20 marks) "
+    ],
+    "questionNum": [
+      "Critically review TWO popular frameworks for defining enterprise architecture. (20 marks) ",
+      "(a)  ",
+      "Explain the process of developing an enterprise architecture, with reference to the \nimportance of having a well-defined scope. (10 marks) ",
+      "Question 3 ",
+      "Question 4 ",
+      "(b)  ",
+      "Analyse and discuss the importance of tagging documents related to enterprise \narchitecture with metadata. (10 marks) ",
+      "Critically discuss how the consistency, completeness and correctness of an enterprise architecture \ncan be assured. (20 marks) ",
+      "(a)  ",
+      "(b)  ",
+      "Question 7 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "Level 6 Diploma ",
+    "level": "    UNIT 2 \u2013 ENTERPRISE ARCHITECTURE ",
+    "unit": "Question 1 ",
+    "year": "2014-08",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Question 2 ",
+      "Explain the principles of an enterprise architecture. (10 marks) ",
+      "processes. (10 marks) ",
+      "(a)  Analyse how to manage and control an enterprise architecture. (10 marks) ",
+      "Evaluate the relationship between the enterprise lifecycle, project management systems and \nengineering management systems. (10 marks) ",
+      "(a)  Criticise the role of Enterprise Record Management (ERM) in enterprise architecture, referring to ERM ",
+      "(b)  Analyse the attributes of authenticity, reliability, usability and integrity within ERM. (10 marks) ",
+      "(a) ",
+      "Review the different assets of an enterprise architecture, including interim and preliminary architectural \nproducts. (10 marks) ",
+      "Question 6 ",
+      "Explain in detail how to assess the consistency, completeness and correctness of enterprise \narchitecture. (10 marks) ",
+      "Explain in detail how to assess an enterprise\u2019s progress towards the target environment.  (10 marks) ",
+      "Critically discuss how to identify and mitigate the risks of enterprise architecture, referring to defining project \ncompliance criteria and identifying any potential consequences. (20 marks)  "
+    ],
+    "questionNum": [
+      "Using the standard framework, critically review the process for developing an enterprise architecture, \ncommenting on how the process could be improved for: defining the geographic areas in which \ngoods/services are provided; defining what the goods/services are; defining who the customers are; \nidentifying how the organisation is funded; and, identifying who the key stakeholders are. (20 marks) ",
+      "(b)  Discuss the reasons for developing enterprise architecture, referring to high-level decision making ",
+      "Question 3 ",
+      "Question 4 ",
+      "ontologies. (10 marks) ",
+      "Question 5 ",
+      "Explain in detail how to control the use, distribution, revision/updating and analysis of architectural \nassets. (10 marks) ",
+      "Question 7 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "Level 6 Diploma ",
+    "level": "    UNIT 2 \u2013 ENTERPRISE ARCHITECTURE ",
+    "unit": "Question 1 ",
+    "year": "2014-08",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Critically analyse the differences between the Incremental Model and the General Model, with \nreference to the stages involved in each. (20 marks) ",
+      "A museum would like to introduce a mobile application to enable visitors to access audio tours \nwhile they view the artefacts. A prototype is expected to be developed within three months by a \nsingle developer. ",
+      "Discuss how potential risks can be anticipated during the planning of this software \ndevelopment project. (10 marks) ",
+      "Propose a plan for this project, illustrating the plan with a Gantt chart. (10 marks) ",
+      "Critically review the role of prototype development in requirements analysis. (20 marks) ",
+      "The accident and emergency facility at a local hospital would like to introduce a new patient \ntracking system to review the cost and quality of immediate aid given at the point of admission. This \ninvolves the issue of a wrist-band with a QR-code, which staff can scan using a tablet device. Staff \nenter the details of the diagnosis and treatment on the device. ",
+      "(b) ",
+      "Use another UML diagram to express the potential behaviour of the system. (10 marks) ",
+      "Critically discuss whether automated mutation testing is an example of black-box or  \nwhite-box testing. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Propose some requirements for this system as a UML Use-Case diagram. (10 marks) ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2015-06",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Question 2 ",
+      "software development project. (10 marks) ",
+      "Referring to your response to Question 2a, recommend the most appropriate type of diagram \nto use when communicating the schedule. Justify your answer. (10 marks) ",
+      "Question 4 ",
+      "Distinguish between white-box and black-box software testing. (10 marks) ",
+      "Referring to your response to Question 4a, recommend the most appropriate testing \napproach to use for quality assurance checks. Justify your answer. (10 marks) ",
+      "a)  Compare the advantages and disadvantages of using a virtual machine for conducting ",
+      "compatibility tests. (10 marks) \nReferring to your response to Question 5a, discuss why compatibility testing is important.  \n(10 marks) "
+    ],
+    "questionNum": [
+      " Question 1 ",
+      "Differentiate between agile and non-agile software development. (10 marks) ",
+      "Referring to your response to Question 1a, suggest which type of software development \nlifecycle is the most appropriate one to use when there are multiple stakeholders in a project. \nJustify your answer. (10 marks) ",
+      "a)  Compare and contrast the use of a Gantt chart with the use of a Critical Path Diagram in a ",
+      "Question 3 ",
+      "Illustrate the purpose of a UML Use-Case Diagram. (10 marks) ",
+      "Referring to your response to Question 3a, suggest how the scope of a use-case is \ndetermined. Justify your answer. (10 marks) ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2015-06",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) ",
+      "(c) ",
+      "Explain the process of developing an Enterprise Architecture. (6 marks) ",
+      "Question 2 ",
+      "(b) ",
+      "Discuss how TWO assets of an Enterprise Architecture should be created, modified, and \ndestroyed. (6 marks) ",
+      "Summarise the costs associated with Enterprise Architecture migration. (8 marks) ",
+      "Critically contrast the Open Group Architecture Framework (TOGAF) against the Federal Enterprise \nArchitecture (FEA). (20 marks) ",
+      "(a) ",
+      "Review the role of 'straw-man' products in the development of an Enterprise Architecture. \n(10 marks) ",
+      "Question 5 ",
+      "(b) ",
+      "Discuss how the risks and effectiveness of enterprise architecture can be quantified.  \n(10 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Discuss THREE key considerations which should be made when assessing the scope of an \nEnterprise Architecture. (6 marks) ",
+      "Review the relationship between the Enterprise Lifecycle and Engineering Management \nSystems. (8 marks) ",
+      "Explain reliability and integrity in terms of Enterprise Record Management. (6 marks) ",
+      "Question 3 ",
+      "Question 4 ",
+      "Explain how functional models are created, with reference to FOUR development tools \n(e.g., use cases). (10 marks) ",
+      "Explain how the return-on-investment of enterprise architecture can be  \nestimated. (10 marks) ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2015-06",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Distinguish between the features of the FOUR main Enterprise Architecture methodologies. \n(20 marks) ",
+      "Discuss the rationale for an organisation to develop an enterprise architecture. (20 marks) ",
+      "Discuss the interaction of assets between and within EACH of the stages of the enterprise \narchitecture lifecycle. (20 marks) ",
+      "Illustrate how risks are identified and mitigated prior to the implementation of an enterprise \narchitecture framework. (20 marks) ",
+      "Discuss the processes involved in the storage of records and artefacts in an enterprise system. \n(10 marks) ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      "Referring to your response to Question 5a, discuss the document life cycle within the \nenterprise architecture. (10 marks) "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2015-06",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a)  Explain the strengths of agile software development. (8 marks) ",
+      "appropriate to use when requirements are uncertain. Justify your answer.  \n(12 marks) ",
+      "(a)  Compare TWO key risks associated with software development. (8 marks) ",
+      "important to mitigate when funding is very limited. Justify your answer. (12 marks) ",
+      "(a)  Explain the importance of a use case diagram. (8 marks) ",
+      "(12 marks) ",
+      "(a)  Explain the difference between system and integration testing. (8 marks) ",
+      "integration testing. Justify your answer. (12 marks) ",
+      "Discuss the role of a test strategy document in a large-scale and distributed software development \nproject. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "(b)  Referring to your response to Question 1a, suggest whether the agile approach is the most ",
+      "Question 2 ",
+      "(b)  Referring to your response to Question 2a, recommend which ONE of these risks is the most ",
+      "Question 3 ",
+      "(b)  Illustrate how a use-case is constructed. Use examples and diagrams to support your answer. ",
+      "Question 4 ",
+      "(b)  Suggest which member of a software development team should take responsibility for ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2015-08",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a)  Explain the role of the Architect within the different enterprise architecture frameworks. ",
+      "(b)  Explain how enterprise architecture could be designed and developed. (12 marks) ",
+      "Illustrate why it is beneficial to calculate the whole-life cost in an architecture lifecycle \nmanagement process. Use examples to support your answer. (20 marks) ",
+      "(a)  Explain TWO essential attributes of an enterprise records management (ERM) system. ",
+      "(b)  Explain TWO ways in which documentation of outputs is managed in an enterprise records ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "(8 marks) ",
+      "Question 2 ",
+      "Question 3 ",
+      "(6 marks) ",
+      "management system. (14 marks) ",
+      "Describe TWO key features of an organisation\u2019s systems for an enterprise architecture.  \n(20 marks) ",
+      "Explain TWO critical elements which would be considered when assessing the capacity of an \nenterprise architecture to meet future requirements. (20 marks) "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2015-08",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Suggest how a feasibility study is conducted according to the Waterfall and Incremental \nDevelopment methodologies. Justify your answer. (20 marks) ",
+      "(a)  Explain TWO reasons why a UML use-case diagram is used to communicate requirements.        ",
+      "(b)  Compare TWO benefits of using of UML diagrams when organising system requirements.          ",
+      "Question 3 ",
+      "(b)  Referring to your response to Question 3a, suggest which type of testing is the most appropriate ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "(4 marks) ",
+      "(16 marks) ",
+      "(a)  Explain how white-box testing and black-box testing are used in unit testing. (4 marks) ",
+      "to ensure adequate code coverage. Justify your answer. (16 marks) ",
+      "Illustrate TWO benefits of using a Gantt chart when planning a software development project. Use \ndiagrams and examples to support your answer. (20 marks) ",
+      "Discuss why it is important to produce Test Strategy Document. (20 marks) "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2015-11",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare the Zachman Framework for enterprise architecture with the Federal Enterprise \nArchitecture Framework. (20 marks) ",
+      "Explain TWO reasons why understanding the operational aspect of the enterprise architecture \nlifecycle is critical in its management. (20 marks) ",
+      "Describe TWO differences between baseline architecture and target architecture for an enterprise. \n(20 marks) ",
+      "Discuss TWO methods which could quantify the results qualitative measures. (20 marks)  ",
+      "Explain FOUR ways in which risks associated with enterprise architecture can be mitigated.            \n(20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2015-11",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Suggest how end-of-system activities are implemented according to the Waterfall and Incremental \ndevelopment methodologies. Justify your answer. (20 marks) ",
+      "(a) ",
+      "(b)  Compare TWO drawbacks of using of UML diagrams when organising system requirements. ",
+      "Question 3 ",
+      "Explain TWO ways in which white-box and black-box testing are used in debugging. (4 marks) ",
+      "appropriate to ensure the discovery of regression. Justify your answer. (16 marks) ",
+      "Illustrate TWO benefits of using a budget development process in a software development project. \nUse diagrams and/or examples to support your answer. (20 marks) ",
+      "Discuss why it is important to produce automated test scripts. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Explain TWO reasons why a UML sequence diagram is used to communicate requirements.    \n(4 marks) ",
+      "(16 marks) ",
+      "(b)  Referring to your response to Question 3a, suggest which type of testing is the most ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2016-01",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare the Zachman Framework for enterprise architecture with Federal Enterprise architecture. \n(20 marks) ",
+      "Explain TWO reasons why understanding the operational aspect of the enterprise architecture \nlifecycle is critical in its management. (20 marks) ",
+      "Illustrate TWO differences between baseline architecture and target architecture for an enterprise. \n(20 marks) ",
+      "Discuss how the results of qualitative measures can be quantified in a fair way. (20 marks) ",
+      "Illustrate TWO ways in which risk factors associated with enterprise architecture could be mitigated. \nUse diagrams and/or examples to support your answer. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2016-01",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare how the implementation stage of the system development lifecycle is conducted according \nto the Waterfall and Incremental development methodologies. Justify your answer.  \n(20 marks) ",
+      "(a) ",
+      "(b)  Compare TWO benefits of using UML diagrams when identifying key system behaviours. ",
+      "Question 3 ",
+      "Explain the difference between white-box and black-box testing. (10 marks) ",
+      "testing. Justify your answer. (10 marks) ",
+      "Illustrate TWO benefits of using a formalised approach when planning a software development project. \nUse diagrams and/or examples to support your answer. (20 marks) ",
+      "Discuss why it is important to produce automated test procedures. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Explain what a UML use-case diagram is. (4 marks) ",
+      "(16 marks) ",
+      "(b)  Referring to your response to Question 3a, suggest the most appropriate usage for black-box ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2016-04",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Contrast the Zachman and the Open Group Architecture Frameworks. (20 marks) ",
+      "Illustrate the life-cycle of enterprise architecture. Use diagrams and/or examples to support your \nanswer. (20 marks) ",
+      "Describe how the baseline and target architecture are used to influence an organisation's processes. \n(20 marks) ",
+      "Explain how the effectiveness of enterprise architecture can be quantified. (20 marks) ",
+      "Assess how to mitigate the risks associated with enterprise architecture. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2016-04",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare how the testing stage of the system development lifecycle is conducted according to \nthe Waterfall and Incremental development methodologies. (20 marks) ",
+      "(a)  Explain what a 'success scenario' in a UML use-case diagram is. (4 marks) ",
+      "for a new system. (16 marks) ",
+      "(a)  Explain the key benefits of black-box testing. (10 marks) ",
+      "box testing. Justify your answer. (10 marks) ",
+      "Illustrate TWO benefits of using a Gantt chart when planning a software development project.       \n(20 marks) ",
+      "Discuss why it is important to conduct regression testing. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "(b)  Compare TWO benefits of using UML diagrams when identifying the required functionality ",
+      "Question 3 ",
+      "(b)  Referring to your response to Question 3a, suggest the most appropriate usage for white-",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2017-01",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare how the design stage of the system development lifecycle is conducted according to \nthe Waterfall and Incremental development methodologies. (20 marks) ",
+      "(a) ",
+      "(b)  Compare TWO benefits of using UML diagrams when determining the scope of a system. ",
+      "Question 3 ",
+      "Explain the key benefits of black-box testing. (10 marks) ",
+      "testing. Justify your answer. (10 marks) ",
+      "Illustrate TWO benefits of using a a low degree of formalisation when planning a software \ndevelopment project. Use diagrams and/or examples to support your answer. (20 marks) ",
+      "Discuss why it is important to produce a test plan. (20 marks) ",
+      " \n \n                                                                               \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Explain what an 'actor' in a UML use-case diagram is. (4 marks) ",
+      "(16 marks) ",
+      "(b)  Referring to your response to Question 3a, suggest the most appropriate use for white box ",
+      "Question 4 ",
+      "Question 5 "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2017-01",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Contrast the Open Group Architecture Frameworks and the Federal Enterprise Architecture \nFrameworks. (20 marks) ",
+      "Illustrate how to calculate the whole-life cost of an enterprise architecture. Use diagrams and/or \nexamples to support your answer. (20 marks) ",
+      "Describe the value of developing target architecture for an enterprise. (20 marks) ",
+      "Compare how to analyse the risks associated with personnel and resources when implementing an \nenterprise architecture. (20 marks) ",
+      "Recommend how to quantify the effectiveness of an enterprise architecture. Justify your answer. \n(20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2017-01",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Contrast the Zachmann and the Federal Enterprise Architecture Frameworks. (20 marks) ",
+      "Illustrate the relationship between enterprise lifecycles and engineering management systems. \nUse diagrams and/or examples to support your answer. (20 marks) ",
+      "Describe how functional models are used to model an organisation's processes. (20 marks) ",
+      "Explain how the return-on-investment (ROI) of an enterprise architecture can be estimated. \n(20 marks) ",
+      "Assess how to prioritise known risks associated with the implementation of enterprise architecture. \n(20 marks) ",
+      " \n \n                                                                               \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2017-01",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare how the implementation stage of the system development lifecycle is conducted \naccording to the Waterfall and Incremental development methodologies. (20 marks)  \nQuestion 2  ",
+      "Question 3  ",
+      "Question 4  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "(a) Explain FOUR key components in the UML diagram. (8 marks)  \n(b) Illustrate how UML diagrams are used to identify the required functionality for a new system. \nUse diagrams and/or examples to support your answer. (12 marks)  ",
+      "(a) Explain TWO key benefits of white-box testing. (8 marks)  \n(b) Suggest the least appropriate usage for white-box testing. Justify your answer. (12 marks)  ",
+      "(a) Explain TWO benefits of conducting a risk analysis when planning a software development \nproject. (8 marks)  \n(b) Illustrate how to identify potential risks and issues that could influence development when \nplanning a software development project. Use diagrams and/or examples to support your \nanswer. (12 marks)  ",
+      "Discuss why it is important to conduct isolation testing. (20 marks)  "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2017-06",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Distinguish the Gartner Frameworks and the Open Group Architecture Frameworks.                \n(20 marks)  ",
+      "Suggest the most appropriate response to increasing procedural complexity over the lifetime \nof an enterprise architecture. Justify your answer. (20 marks) ",
+      "Discuss the value of comparing models of the baseline and target architecture for an \nenterprise during its ongoing management. (20 marks)  ",
+      "Compare the appropriateness of quantitative and qualitative measures to determine the \nreturn on investment of an enterprise architecture. (20 marks)  ",
+      "Recommend how to analyse the consistency, completeness, and correctness of an enterprise \narchitecture. Justify your answer. (20 marks)  "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  ",
+      "Question 3  ",
+      "Question 4  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n \n \n  \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2017-06",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Explain the key concepts and principles of the functional programming paradigm. (8 marks)  \n(b) Compare the differences between the object-orientated and functional paradigms.                    \n(12 marks)  ",
+      "(a) Describe how formal specification documents are used to capture requirements. (8 marks)  \n(b) Illustrate the role of formal specification documents in developing a design prototype. Use \ndiagrams and/or examples to support your answer. (12 marks)  ",
+      "(a) Explain the decorator design pattern. (8 marks)  \n(b) Referring to your answer to Question 3a, illustrate the application of the design pattern to \nI/O streams in an office application. Use diagrams and/or examples to support your answer.                     \n(12 marks)  ",
+      "(a) Explain the purpose of mutation testing. (8 marks)  \n(b) Compare the usefulness of mutation testing and static analysis. (12 marks)  ",
+      "Write the pseudocode for an algorithm that will remove a specific element from a linked list.                \n(20 marks)  "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  ",
+      "Question 3  ",
+      "Question 4  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2017-11",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare the Open Group and Zachmann frameworks for enterprise architecture. (20 marks)  ",
+      "Illustrate how to document the lifecycle of enterprise architecture. Use diagrams and/or \nexamples to support your answer. (20 marks)  ",
+      "Illustrate the use of semantic models in enterprise architecture modelling. Use diagrams and/or \nexamples to support your answer. (20 marks)  ",
+      "Discuss the most appropriate approach to quantifying the effectiveness of an enterprise \narchitecture. (20 marks)  ",
+      "Suggest the most appropriate approach to mitigating personnel risks within the sphere of \nenterprise architecture. Justify your answer. (20 marks)  "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  ",
+      "Question 3  ",
+      "Question 4  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2017-11",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Explain the key concepts and principles of the imperative programming paradigm.  \n(8 marks)  ",
+      "Question 2  ",
+      "(b) Referring to your answer to Question 2a, explain how ONE of these methods can be used in \nthe development of a design prototype. Use diagrams and/or examples to support your \nanswer. (12 marks)  ",
+      "(a) Explain the purpose of each of the different design pattern types as described by the Gang \nof Four. (6 marks)  ",
+      "Question 4  ",
+      "(b) Compare the usefulness of integration testing and function testing. (12 marks)  ",
+      "Identify and discuss the considerations that should be made with regards to scope and \naudience when writing pseudo-code. (20 marks)  "
+    ],
+    "questionNum": [
+      " Question 1  ",
+      "(b) Identify and explain TWO different contexts in which it would be suitable to use the \nimperative paradigm. Use diagrams and/or examples to support your answer. (12 marks)  ",
+      "(a) Suggest TWO methods that could be used to gather requirements. (8 marks)  ",
+      "Question 3  ",
+      "(b) Referring to your answer to Question 3a, illustrate an appropriate application of ONE of \nthese design patterns. Use diagrams and/or examples to support your answer. (14 marks)  ",
+      "(a) Explain the purpose of integration testing. (8 marks)  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2018-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare the Federal and Gartner frameworks for enterprise architecture. (20 marks)  ",
+      "Identify and explain the most important costs associated with running an enterprise \narchitecture. Use diagrams and/or examples to support your answer. (20 marks)  ",
+      "Illustrate the use of logical models in enterprise architecture modelling. Use diagrams and/or \nexamples to support your answer. (20 marks)  ",
+      "Discuss how the ability of an enterprise architecture to meet future requirements can be \nassessed. Use diagrams and/or examples to support your answer. (20 marks)  ",
+      "Suggest effective methods to mitigate execution risks within the context of enterprise \narchitecture. Justify your answer. (20 marks)  "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  ",
+      "Question 3  ",
+      "Question 4  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2018-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) State what is meant by the term \u2018programming paradigm\u2019. (4 marks)   \n(b) Describe the key concepts of the object-orientated paradigm. (8 marks)   \n(c) Explain the contexts in which different paradigms are used. (8 marks)  ",
+      "(a) Describe the main planning tools used to detail user requirements. (10 marks)  \n(b) Describe the use of prototyping when gathering user requirements. (10 marks)  ",
+      "(a) State what is meant by the term \u2018design pattern\u2019. (4 marks)  \n(b) Describe TWO design patterns used in object-orientated software design. (8 marks)  \n(c) Referring to your answer to Question 3b, compare the differences between the two types of \ndesign patterns. (8 marks)   ",
+      "(a) State what is meant by the term \u2018black-box testing\u2019. (4 marks)  \n(b) Describe what is meant by integration testing and function testing. (8 marks)  \n(c) Describe FOUR principles of testing new software. (8 marks)  ",
+      "(a) State what is meant by the term \u2018pseudo-code\u2019. (4 marks)  \n(b) Describe the use of an array data structure and a tree data structure. (8 marks)  \n(c) Write a segment of pseudocode to add up the contents of an array of 40 integer elements and \noutput their average. (8 marks) "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      " Question 2  ",
+      " Question 3  ",
+      " Question 4  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n  \n  \n  \n  \n  \n  \n \n  \n  \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2018-04",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) State what is meant by the term \u2018enterprise architecture\u2019. (4 marks)  \n(b) Describe the main reasons for developing an enterprise architecture. (8 marks)   \n(c) Describe the principles of enterprise architectures. (8 marks)   ",
+      "(a) Describe the life cycle management of an enterprise architecture. (10 marks)  \n(b) Describe the costs associated with running an enterprise architecture. (10 marks)   ",
+      "(a) Describe the storage and life cycle of an enterprise architecture. (8 marks)  \n(b) Explain how an enterprise architecture can be analysed and updated. (12 marks)   ",
+      "(a) State what is meant by the term \u2018Return On Investment\u2019 (ROI). (4 marks)  \n(b) Explain how an enterprise architecture can be designed to meet future requirements.     \n      (8 marks)  \n(c) Explain how the effectiveness of an enterprise framework can be judged. (8 marks)   ",
+      "(a) Describe the main risks of an enterprise architecture. (10 marks)  \n(b) Explain how to prioritise the risks of implementing an enterprise architecture. (10 marks) "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  ",
+      "Question 3  ",
+      "Question 4  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n  \n  \n   \n  \n  \n  \n  \n  \n  \n  \n  \n   \n  \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2018-04",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) State what is meant by the term \u2018imperative paradigm\u2019. (4 marks)  ",
+      "(c) Explain the circumstances of a paradigm shift. (8 marks)  ",
+      "(a) Describe the use of prototyping in software requirements gathering. (10 marks)  ",
+      "Question 3 ",
+      "(b) Explain how a UML Class Diagram supports object-orientated software design. (8 marks)  ",
+      "Question 4  ",
+      "(b) Differentiate between black-box and white-box testing methods. (8 marks)  ",
+      "Question 5 ",
+      "(b) Describe the operations commonly used on a stack data structure and a linked-list data ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n  \n \n \n \n  \n \n \n \n \n \n \n \n \n \n  \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "(b) Describe the concepts and principles of the imperative paradigm. (8 marks)  ",
+      "Question 2 ",
+      "(b) Describe different types of software requirement. (10 marks)  ",
+      "(a) State what is meant by the term \u2018UML Class Diagram\u2019. (4 marks)  ",
+      "(c) Describe TWO object-orientated design principles. (8 marks)  ",
+      "(a) State what is meant by the term \u2018white-box testing\u2019. (4 marks)  ",
+      "(c) Describe TWO principles of testing new software. (8 marks)  ",
+      "(a) Describe the use of a stack data structure and a linked-list data structure. (10 marks)  ",
+      "structure. (10 marks) "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2018-08",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Describe the factors to consider when defining the scope of an organisation preparing to ",
+      "(b) Describe the reasons for developing an enterprise architecture. (10 marks)  ",
+      "(a) Analyse the life cycle management process of an enterprise architecture. (10 marks)  ",
+      "Question 3 ",
+      "(b) Explain how an enterprise architecture can be analysed and updated. (12 marks)  ",
+      "(a) State what is meant by the term \u2018return on investment\u2019 (ROI). (4 marks)  ",
+      "(c) Explain how the effectiveness of an enterprise framework can be judged. (8 marks)  ",
+      "(a) Describe the main risks of an enterprise architecture. (10 marks)  ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n  \n \n \n \n  \n \n \n \n \n \n \n \n \n  \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "develop an enterprise architecture. (10 marks)  ",
+      "Question 2 ",
+      "(b) Describe the costs associated with running an enterprise architecture. (10 marks)  ",
+      "(a) Describe the storage and life cycle of an enterprise architecture. (8 marks)  ",
+      "Question 4  ",
+      "(b) Explain how an enterprise architecture can be designed to meet future requirements. (8 marks)  ",
+      "Question 5 ",
+      "(b) Explain how to prioritise the risks of implementing an enterprise architecture. (10 marks) "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2018-08",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Describe the key concepts and principles of THREE different paradigms that should be considered \nwhen making a suitable selection for a particular task. (20 marks)  ",
+      "(a) Describe the relative costs associated with mis-specified software requirements. (10 marks)  ",
+      "Question 3 ",
+      "(10 marks)  ",
+      "Question 4  ",
+      "(b) Describe TWO principles of testing new software. (10 marks)  ",
+      "Describe the features and application of pseudo code for operations on fundamental data \nstructures. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2 ",
+      "(b) Describe TWO methods that could be used to gather software requirements. (10 marks)  ",
+      "(a)  Describe TWO design patterns that could be applied to object-orientated software design.  ",
+      "(b) Explain how a UML Class Diagram is used in object-orientated software design. (10 marks)  ",
+      "(a) Describe TWO types of new software testing. (10 marks)  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n \n \n  \n \n \n \n  \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2018-10",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare and contrast the differences between TWO popular enterprise architecture \nframeworks. (20 marks)  ",
+      "Discuss the process of managing the enterprise architecture life cycle and the associated \nrunning costs. (20 marks)  ",
+      "Explain how the development of an activity tree functional model supports the analysis and \nupdating of enterprise architecture. (20 marks)  ",
+      "(a) Describe how to estimate the Return On Investment (ROI) of an enterprise architecture.  ",
+      "(b) Discuss how the effectiveness of an enterprise architecture can be judged by both ",
+      "Question 5  \nDescribe TWO risks associated with implementing an enterprise architecture and explain how \nthese can be mitigated. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  ",
+      "Question 3 ",
+      "Question 4  ",
+      "(10 marks)  ",
+      "quantitative and qualitative measures. (10 marks)  ",
+      " \n \n                                                                               \n \n        \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2018-10",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Compare and contrast the paradigms of functional and object-orientated programming. (10 \nmarks)  ",
+      "Question 2  ",
+      "(b) Compare and contrast functional software requirements with non-functional requirements.     \n(10 marks)  ",
+      "(a) Describe ONE example of a behavioural pattern and ONE example of a creative pattern in \nobject-oriented software design. (10 marks)  ",
+      "Question 4  ",
+      "(b) Explain TWO types of non-functional testing in software development. (10 marks)  ",
+      "(a) Read the pseudo-code example below and identify and describe the THREE programming \nconstructs it contains. (10 marks)  ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f(b) Describe the function of each segment of pseudo-code below. (10 marks)  ",
+      "top[S]<-top[S]+1  \nS[top[S]]<-x  ",
+      "IF STACK-EMPTY(S)  ",
+      "ELSE top[S]<-top[S]-1  \nRETURN S[top[S]+1] "
+    ],
+    "questionNum": [
+      " Question 1  ",
+      "(b) Describe a suitable application context for each paradigm identified in Question 1a. (10 marks)  ",
+      "(a) Describe the advantages and disadvantages of TWO software planning tools with which you \nare familiar. (10 marks)  ",
+      "Question 3  ",
+      "(b) Using examples, explain the object-oriented design principles of encapsulation and object \nreuse. (10 marks)  ",
+      "(a) Explain TWO types of functional testing in software development. (10 marks)  ",
+      "Question 5  ",
+      "REPEAT  \nOUTPUT 'What is the capital city of Nigeria?'  \nINPUT user inputs their guess  \nSTORE the user's input in the answer variable  \nIF answer = \u2018Abuja\u2019 THEN  \nOUTPUT 'Of course it is!'  \nELSE  \nOUTPUT 'Try again!' \nUNTIL answer = \u2018Abuja\u2019  ",
+      "(i) PUSH(S,x)  ",
+      "(ii) POP(S)  ",
+      "THEN error \u201cunderflow\u201d  ",
+      " \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2019-01",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Explain how the geographic area in which goods or services are provided affects the \ndevelopment of an enterprise architecture. (10 marks)  ",
+      "Question 2 ",
+      "(b) Explain the requirement to manage documentation of outputs. (10 marks)  ",
+      "Describe the process of developing and reviewing an effective model of enterprise architecture. \n(20 marks)  ",
+      "(a) Describe how to assess whether an enterprise architecture could meet future requirements.  \n(10 marks)  ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n        \n \n  \n \n \n \n  \n \n \n \n \n \n \n  \n \n \n \n  \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "(b) Describe the Federal Enterprise Architecture (FEA). (10 marks)  ",
+      "(a) Explain how using enterprise record management (ERM) and meta-data supports efficient \nrecord storage management. (10 marks)  ",
+      "Question 3  ",
+      "Question 4 ",
+      "(b) Discuss the role of management reports on enterprise architecture effectiveness. (10 marks)  ",
+      "Identify and describe the risks associated with enterprise architecture and evaluate how to \novercome them. (20 marks) "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2019-01",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Discuss the concepts and principles of the object-oriented paradigm and suggest suitable \ncontexts in which it may be used. (10 marks)  ",
+      "Question 2  ",
+      "Question 3  ",
+      "(b) Explain the importance of high cohesion and low coupling as object-oriented design principles. \n(10 marks)  ",
+      "Discuss TWO different ways in which software is tested together with their principles and methods. \n(20 marks)  ",
+      "Using examples, illustrate how data is organised into arrays, trees and stacks and represented in \npseudo code to support communication between programmers. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "(b) Explain how paradigm shifts have occurred in programming. (10 marks)  ",
+      "Discuss the methods and tools used to ascertain the software requirements of a user and the \nimportance of producing an accurate specification. (20 marks)  ",
+      "(a) Use examples to illustrate the application of the Gang of Four\u2019s Design Patterns to object-\noriented software design. (10 marks)  ",
+      "Question 4  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n        \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2019-05",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the structure and principles of an enterprise architecture and the reasons why an \norganisation would develop one. (20 marks)  ",
+      "Explain the process in an enterprise architecture life cycle, whereby identified costs and \noperational deficiencies lead to a re-analysis of the architecture and modifications. (20 marks)  ",
+      "Discuss how the development of use cases, activity trees and state models support the process of \nanalysing and updating an enterprise architecture. (20 marks)  ",
+      "Identify the strategic outputs of an enterprise architecture and discuss frameworks and measures \nby which to judge its effectiveness. (20 marks)  ",
+      "(a) Discuss effective measures that can be taken to minimise risks arising from costs and personnel. \n(10 marks)  ",
+      " \n \n                                                                               \n \n        \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  ",
+      "Question 3 ",
+      "Question 4  ",
+      "Question 5  ",
+      "(b) Explain how project compliance criteria and consequences can be defined. (10 marks)  "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2019-05",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Illustrate the key concepts and principles of the imperative programming paradigm, using \nexamples in a language of your choice. (10 marks)  ",
+      "Question 2  ",
+      "(b) Describe the benefits of user stories when establishing software requirements. (10 marks)  ",
+      "(a) Use examples to illustrate the application of Fowler\u2019s Design Patterns to object-oriented \nsoftware design. (10 marks)  ",
+      "Question 4  ",
+      "(b) Discuss the differences between black-box and white-box testing methods. (10 marks)  ",
+      "Using examples, describe how data is organised into a linked-list and how TWO common operations \ncan be represented in pseudo code. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "(b) Describe the historic development of the object-oriented programming paradigm. (10 marks)  ",
+      "(a) You are developing a software package for a client. Explain how prototyping will help you \nestablish the client\u2019s requirements, and what the possible disadvantages might be. (10 marks)  ",
+      "Question 3  ",
+      "(b) Discuss the differences between structural and behavioural design patterns. (10 marks)  ",
+      "(a) Discuss why it is important to measure the quality of new software and the possible problems of \ndelivering poor-quality software. (10 marks)  ",
+      "Question 5 ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2019-09",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Describe ways to measure and define the scope of an enterprise architecture in an \norganisation. (10 marks)  ",
+      "Question 2  ",
+      "(b) Explain how to manage enterprise record systems. (10 marks)  ",
+      "Discuss THREE factors that should be considered in the storage and life cycle of an enterprise \narchitecture. (20 marks)  ",
+      "(a) Discuss the different types of strategic output from an enterprise architecture. (10 marks)  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "(b) Discuss TWO reasons for organisations to develop an enterprise architecture. (10 marks)  ",
+      "(a) Describe the life cycle of an enterprise architecture. (10 marks)  ",
+      "Question 3  ",
+      "Question 4  ",
+      "(b) In the context of an enterprise architecture, discuss the difficulties of measuring the \neffectiveness or impact of a programme delivering change. (10 marks)  ",
+      "Discuss the risks associated with implementing an enterprise architecture and how to prioritise them \nby cost and impact. (20 marks) "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2019-09",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the factors which influence the selection of a programming paradigm for a particular \ncontext, giving an example of each. (20 marks)  ",
+      "When analysing the software requirements of a large commercial organisation, discuss their \npossible business requirements and how the functional and non-functional requirements may be \ndeveloped from them. (20 marks)  ",
+      "(a) Describe the differences between architectural and creational design patterns in object-\noriented software design. (10 marks)  ",
+      "Question 4  ",
+      "(b) Discuss the pesticide paradox and error fallacy principles of testing software. (10 marks)  ",
+      "(a) Discuss the importance of considering the scope and audience when writing pseudo-code. (10 \nmarks)  ",
+      "insertNode(Node current, Node newNode)  ",
+      "if (current.left==null)  ",
+      "else  ",
+      "insertNode(current.left, newNode)  ",
+      "(10 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2  ",
+      "Question 3  ",
+      "(b) Discuss the purpose and features of the Open-Closed Principle (OCP) of object-oriented \ndesign. (10 marks)  ",
+      "(a) Assess integration testing and function testing of software. (10 marks)  ",
+      "Question 5 ",
+      "(b) Read the pseudo-code example below and describe the programming and data structure \noperations it contains:  ",
+      "if (newNode.data<current.data)  ",
+      "current.left=NewNode  ",
+      "else  ",
+      "insertNode(current.right=newNode)  ",
+      " \n \n                                                                               \n \n        \n  \n \n \n \n \n \n \n \n \n \n  \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2019-11",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Explain FOUR reasons for developing an enterprise architecture. (20 marks)  ",
+      "Discuss the enterprise architecture life cycle and the management of records and artefacts. \n (20 marks)  ",
+      "Discuss the development of functional models for analysing and updating an enterprise \narchitecture. (20 marks)  ",
+      "(a) Discuss methods of quantifying the effectiveness of enterprise architecture. (10 marks)  ",
+      "Question 5  ",
+      " \n \n                                                                               \n \n        \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  ",
+      "Question 3  ",
+      "Question 4  ",
+      "(b) Assess TWO qualitative measures to help judge an enterprise architecture\u2019s effectiveness.  \n(10 marks)  ",
+      "Discuss FOUR risks associated with enterprise architecture and how they may be overcome.  \n(20 marks) "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2019-11",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Discuss the concepts and principles of the functional paradigm and situations where it may be \nused. (10 marks)  ",
+      "Question 2  ",
+      "Question 3  ",
+      "(b) With reference to a UML diagram, describe class notation and class relationships. (10 marks)  ",
+      "Explain why it is essential for new software to be rigorously tested, and describe the approach and \nmethods of testing. (20 marks)  ",
+      "(a) Describe the use of pseudo-code as a communication tool. (10 marks)  ",
+      " \n \n                                                                               \n \n        \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "(b) Explain how popularity and the need for increased utility have influenced paradigm shifts.  \n(10 marks)  ",
+      "Assess the relative cost associated with mis-specified requirements and explain how prototyping \nand the use of planning tools can help achieve an accurate specification. (20 marks)  ",
+      "(a) Assess the use of a UML diagram in designing object-oriented solutions. (10 marks)  ",
+      "Question 4  ",
+      "Question 5  ",
+      "(b) Using examples, describe how a tree and a stack are used in programming. (10 marks)  "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2020-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare and contrast the Zachmann Framework for Enterprise Architectures (FEA) and The Open \nGroup Architecture Framework (TOGAF). (20 marks)  ",
+      "Question 3  ",
+      "Question 4  ",
+      "Question 5  ",
+      "(b) Explain how to define the project compliance criteria of an enterprise architecture and their \nconsequences. (10 marks)  "
+    ],
+    "questionNum": [
+      "Question 1  ",
+      "Question 2  \nExplain how record storage management is supported through the use of enterprise record \nmanagement (ERM) and meta-data. (20 marks)  ",
+      "Describe the use of data models as organisational systems for enterprise architecture and explain \nhow an enterprise architecture can be kept updated. (20 marks)  ",
+      "Describe the frameworks, measures and management reporting techniques used to judge the \neffectiveness of an enterprise architecture. (20 marks)  ",
+      "(a) Discuss the personnel risks associated with enterprise architecture and how they may be \novercome. (10 marks)  ",
+      " \n \n                                                                               \n \n        \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2020-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Identify and describe FOUR concepts of object-oriented programming. (20 marks)",
+      "(a) Explain how mis-specified software requirements may inflate the costs of \nsoftware development. (10 marks)",
+      "Question 3",
+      "(b) Describe TWO object-oriented design principles. (10 marks)",
+      "Compare and contrast black-box testing with white-box software testing methods. \n(20 marks)",
+      "Identify TWO fundamental data structures and for each one use common \nconstructs to write a pseudo code segment to illustrate how to insert and retrieve \ndata. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "(b) Discuss strategies to ensure user requirements are correctly specified. (10 marks)",
+      "(a) Describe TWO differences between architectural and domain-specific patterns. \n(10 marks)",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2021-02",
+    "serie": "Dec-2020"
+  },
+  {
+    "queston": [
+      "A bus transport company wants to develop software to enable customers to book tickets \nonline and to provide real-time information regarding the departures and arrivals of their \nbuses at each stop on route. As consultant, state which programming paradigm you would \nselect and explain the reasons for your selection. (20 marks)",
+      "Explain how a software analyst can use User Stories and Specifications to reliably and \naccurately ascertain the software development requirements of a client. (20 marks)",
+      "(a) Explain how Unified Modelling Language (UML) Class Diagram can be used to model \nan object-oriented software design. (10 marks)",
+      "Question 4",
+      "(b) Describe the pesticide paradox and illustrate how it may apply to software testing. \n(10 marks)",
+      "Describe the linked-list data structure and use pseudocode to illustrate how data is inserted \nand retrieved. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "(b) Using the context of a payroll system, illustrate TWO key UML components. (10 marks) ",
+      "(a) Identify TWO methods of testing a new software deployment and illustrate how they \nmay be used (10 marks)",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the historic shifts of programming paradigms in terms of popularity, utility, and emerging \nparadigms. (20 marks) ",
+      "Illustrate, with the use of examples, the role of User Stories and Specifications in determining the \nsoftware requirements of a client. (20 marks) ",
+      "Identify a pattern for use with object-oriented design and discuss its application for different types \nof requirements. (20 marks) ",
+      "Discuss the definition and importance of quality in software. (10 marks) ",
+      "Question 5 ",
+      " \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Illustrate, with the use of examples, how particular software application features may be \nindividually tested. (10 marks) ",
+      "Using examples, illustrate how data is organised into a tree structure and write a sequence of \npseudo code to show how data may be added to a tree. (20 marks)  "
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "(a) Discuss the features and traits of the event-driven programming paradigm and \ndescribe a suitable context where it may be used. (10 marks)\n(b) Use examples to illustrate suitable contexts for using a declarative paradigm. \n(10 marks)",
+      "Discuss the methods and activities used by a software analyst to determine the software \nneeds of a client. (20 marks)",
+      "Discuss the use of software design patterns in software engineering and describe a \ncommonly-used documentation format. (20 marks)",
+      "Explain how the Software Testing Life Cycle Model (STLM) performed by a testing team may \nhelp ensure the quality of the software in a large-scale installation. (20 marks)",
+      "Apply pseudo code to the following operations on each of the data structures below:",
+      "\uf0a7 Insert an element\n\uf0a7 Delete an element\n\uf0a7 Search for an element using a given value",
+      "(b) stack \u2018STACK\u2019:",
+      "(10 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5",
+      "(a) ordered tree \u2018TREE\u2019:",
+      "(10 marks)",
+      "\uf0a7 add an item to the stack\n\uf0a7 remove an item from the stack",
+      " \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare and contrast the strengths and weaknesses of the imperative and object-oriented \nprogramming paradigms. (20 marks) ",
+      "Identify and describe FOUR steps in a software development plan to meet the requirements of a \nclient. (20 marks)",
+      "Explain how the Gang of Four\u2019s Design Patterns support the development of object-oriented \nsoftware solutions, using diagrams to support your answer. (20 marks)",
+      "(a)Use examples to analyse unit testing and regression testing of software. (10 marks) ",
+      "Question 5",
+      "\u2022Print all the elements one by one\n\u2022Add an element at a given index\n\u2022Delete an element at a given index \n\u2022Search using a given value\n(12 marks)",
+      "\u2022check to see if \u2018QUEUE\u2019 is full \n\u2022add an item to the end of the queue\n(8 marks) "
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "(b)Identify and describe TWO principles of testing software. (10 marks)",
+      "Apply pseudo code to the following operations on each of the data structures below:\n(a)1-  dimensional array \u2018ARRAY\u2019 of length n:",
+      "(b)queue \u2018QUEUE\u2019:",
+      " \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 5 Diploma ",
+    "unit": "Unit 2 \u2013 software development ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Explain how an abstract state machine (ASM) may be used to produce a formal \nspecification of the data manipulation and data operations of an IT system. (20 marks)",
+      "Explain how to assess the quality of source code in terms of the three quality aspects of \nfunctional coherence, maintainability and optimisation. (20 marks)",
+      "Use the pseudo-code algorithm below to illustrate how to algebraically evaluate the run \ntime complexity of algorithms. ",
+      "(20 marks)",
+      "Discuss the role of the CPU in the compilation process, i.e. converting source-code into \nmachine-code. (20 marks)",
+      "Describe the dining philosopher problem and explain its significance to software \ndesigners. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "1   get a positive integer n from input\n2   if n > 10\n3     print \"This might take a while...\"\n4   for i = 1 to n\n5       for j = 1 to i\n6            print i * j\n7   print \"Done!\"",
+      "Question 4",
+      "Question 5",
+      " \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 1 \u2013 software engineering, algorithm design and analysis ",
+    "year": "2021-02",
+    "serie": "Dec-2020"
+  },
+  {
+    "queston": [
+      "Discuss the implications of using formal methods for a team of software engineers when \nspecifying, developing and verifying software requirements. (20 marks)",
+      "Describe the formal method of proof by induction to verify the correctness of an algorithm\nand explain how to assess its quality. (20 marks)",
+      "Discuss the challenges associated with attempting to exhaustively test an algorithm, with \nreference to the Halting problem. (20 marks)",
+      "Analyse the process of converting a source-code compilation into machine-code. \n(20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5\nOne of your clients uses a truck to deliver fresh farm produce to 12 retail outlets. Describe an\nalgorithmic solution for working out the shortest possible route for the truck to make its \ndeliveries, and discuss other possible applications of the algorithm. (20 marks)"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 1 \u2013 software engineering, algorithm design and analysis ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Explain how the techniques of formal logic paradigms may be applied to help define and \nverify requirements for software. Use examples to support your answer. (20 marks) ",
+      "Describe the methods of testing and analysing the asymptotic behaviour of an algorithm, \nboth informally and formally. (20 marks) ",
+      "Describe the run-time and memory complexities of TWO sorting algorithms and the \nimplications for program design. (20 marks) ",
+      "Discuss the role and function of both the internal hardware components and low-level \nsoftware components in the source-code compilation process. (20 marks) ",
+      "Discuss the key qualities and characteristics of a sophisticated and maintainable pseudo-\ncode. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 1 \u2013 software engineering, algorithm design and analysis ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the application of formal mathematical techniques in software engineering to safety-\ncritical systems, such as aeroplane software design. (20 marks)",
+      "Illustrate how symbolic model checking is used to verify the correctness of algorithms.\n(20 marks)",
+      "Discuss the differences between deterministic and non-deterministic problem solving and\ntheir relevance to software engineering. (20 marks)",
+      "Discuss the characteristics and relative benefits of CISC and RISC processor architectures. \n(20 marks)",
+      "Discuss the characteristics of the divide-and-conquer paradigm and its application in \ndesigning efficient algorithms to put elements of a list into a given order. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 1 \u2013 software engineering, algorithm design and analysis ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Explain the principles and structure of a software quality plan (SQP) and illustrate how it \nmay be used in a software development project. (20 marks)",
+      "Illustrate how an algorithm may display asymptotic behaviour and describe how its \nperformance may be analysed. Use an example to support your answer. (20 marks)",
+      "Describe the run-time and memory complexities of each of the following sorting \nalgorithms:",
+      "Question 4",
+      "Question 5",
+      " \n \n \n \n \n\f"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "\u2022bubble\n\u2022radix\n\u2022quick\n\u2022insertion \n(20 marks)",
+      "Describe the purpose and principles of an assembler, and discuss the advantages and \ndisadvantages to programmers when an algorithm is encoded in an assembly language \nand executed. (20 marks) ",
+      "Discuss the divide-and-conquer paradigm for efficient algorithm design and illustrate its \napplication in data sorting. (20 marks)"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 1 \u2013 software engineering, algorithm design and analysis ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the role and responsibilities of an enterprise architect, and describe the \nprocess by which architects may create and record artefacts in a chosen \nframework. (20 marks)",
+      "Describe the concepts of artefact design in enterprise architecture in terms of their \ncontents, lifecycle and meaning, and explain how they may be used in collective \ndecision making (20 marks)",
+      "Identify and describe the assets deployed in enterprise architecture, and explain \nhow they are used and reviewed. (20 marks)",
+      "Describe examples of the strategic output of an enterprise architecture framework \nfrom architecture definition to realization. (20 marks)",
+      "Discuss examples of the project compliance associated with enterprise architecture \nand describe how project compliance can be managed. (20 marks"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2021-02",
+    "serie": "Dec-2020"
+  },
+  {
+    "queston": [
+      "Compare and contrast the Open Group Architecture Framework (TOGAF) with the Federal \nEnterprise Architecture (FEA) as frameworks for developing an enterprise architecture. \n(20 marks)",
+      "Discuss the use of an Enterprise Record Management (ERM) strategy in managing \nthe storage of records and artefacts for later audit in an enterprise architecture. (20 marks)",
+      "Discuss the models, rules, and standards that govern the deployment, integration, and usage\nof data in organizations utilizing enterprise architecture. (20 marks)",
+      "Discuss the main objectives of an enterprise architecture and methods of measuring its \nimpact and performance. (20 marks)",
+      "Analyse the risks associated with enterprise architecture and suggest effective mitigation \nstrategies. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the principles of an enterprise architecture and explain TWO ways in which an enterprise \narchitecture framework may help to grow a business. (20 marks) ",
+      "Analyse the enterprise architecture life cycle including the life cycle management process. \n(20 marks) ",
+      "Describe the features of any TWO functional models and explain how they support the analysis and \nupdating of an enterprise architecture. (20 marks) ",
+      "Discuss the factors involved in estimating the return on investment (ROI) of an enterprise \narchitecture and methods of quantifying its effectiveness. (20 marks) ",
+      "Describe TWO risks associated with enterprise architecture and explain how they may be prioritised \nand mitigated against. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the characteristics of an enterprise architecture and describe the benefits they bring \nto large organisations. (20 marks)",
+      "Describe the stages of an Enterprise Architecture Life Cycle (EALC) and the activities \nrequired in each stage. (20 marks)",
+      "Describe the characteristics of a straw-man proposal and how it may be applied to the \ndesign of a target architecture. (20 marks)",
+      "Discuss methods of evaluating the ability of a particular enterprise architecture to meet \nfuture requirements. (20 marks)",
+      "Identify the key risks to a large, competitive business when implementing an enterprise \narchitecture and describe their possible impact on business operation. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Explain how to define the scope of an organisation for developing an enterprise \narchitecture(EA), and how that may determine the selection of a suitable framework. (20 marks)",
+      "Analyse the different types of costs associated with running an EA from start-up and migration, \nthrough operation and maintenance, to end-of-life and expiration. (20 marks)",
+      "Evaluate the organisational systems and processes which support EA modelling. (20 marks)",
+      "Differentiate between qualitative and quantitative measures when judging the effectiveness of \nan EA, providing examples of each. (20 marks)",
+      "Below are FOUR problems sometimes associated with establishing an EA: ",
+      "For each problem, analyse the risk to the organisation and suggest remedies to mitigate them. \n(20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5",
+      "\u2022stakeholders have no understanding of EA\n\u2022EA initiative funding deficiency\n\u2022the chief EA architect is an ineffective leader\n\u2022communication problems",
+      " \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 2 \u2013 enterprise architecture ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the vulnerabilities that may exist in the physical or logical resources of an IT system, \nand the measures that may be used to reduce their threat to an organisation. (20 marks)",
+      "Discuss the general principles of developing an IT security policy for an organisation, taking \ninto account the ability of the policy to deliver risk mitigations. (20 marks)",
+      "You have a client who runs a language translation business and an English teaching \nacademy on the ground floor of a public building. The language translation business is \nlocated in an office and uses an IT network which links clients with translators, both in the \noffice and over the internet via a remote web hosting service. The office is adjacent to the \nEnglish teaching room and shares a lobby which is open to the public. The IT network is \nshown in Figure 1. The ground floor plan is shown in Figure 2 below.",
+      "Question 4",
+      "Question 5"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "\fDiscuss the possible physical and electronic security threats and describe their possible \nconsequences to the business. (20 marks)",
+      "Describe the physical security systems that can be installed in IT installation and explain\nhow they may help prevent damaging security incidents. (20 marks)",
+      "Discuss how an incident response plan may generally help reduce the consequences of any \nbreach of the security of an IT system. (20 mark"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 3 \u2013 organisational security ",
+    "year": "2021-02",
+    "serie": "Dec-2020"
+  },
+  {
+    "queston": [
+      "One of your clients runs an online agency. Recently they have complained that their system \nwas running very slowly and sometimes crashed completely. Suggest the possible causes of this \nand describe strategies to prevent further security breaches. (20 marks)",
+      "Explain why an e-commerce organisation should conduct regular cyber security risk assessments \nand maintain an up-to-date cyber security plan. (20 marks)",
+      "You have a client who offers both in-house and online training workshops for legal practitioners. \nThey have a number of freelance trainers who work in law. They use video conferencing \nsoftware such as Zoom. Their IT system is shown below in Figure 1.",
+      "\fQuestion 4",
+      "Question 5"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "They use office space in a large office block for their administration and training workshops. Their \noffice is adjacent to the lifts and the public WCs. Entry is via a card reader door control system. \nYou are commissioned to review their physical and electronic security. Suggest areas of \nvulnerability based on this description and for each one describe their threat to security. \n(20 marks)",
+      "Describe the threats posed by ransomware to businesses who trade online and discuss an \nappropriate strategic response from managers to minimise the threat. (20 marks)",
+      "Describe and evaluate the different methods of penetration testing the IT security of large \norganisations. (20 marks)"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 3 \u2013 organisational security ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss FOUR human security threats and their associated risks. (20 marks) ",
+      "Discuss why the process of updating an organisation\u2019s IT security policy should comply with \nan international security standard, such as ISO/IEC 2700. (20 marks) ",
+      "Discuss the severity of risks associated with flawed authentication and password storage \npolicies and their implications for a commercial organisation. (20 marks) ",
+      "Assess, with the use of examples, how to evaluate the severity of a security incident and the \nappropriate initial response. (20 marks) ",
+      "Describe methods of testing security and how to evaluate an organisation\u2019s IT security \npolicy on the basis of test results. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 3 \u2013 organisational security ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Describe the characteristics of a DNS server attack and discuss examples of how they may \nimpact an e-commerce organisation. (20 marks)",
+      "Explain why it is essential for a large competitive organisation to have an IT security policy, \nand explain the importance of maintaining compliance with the ISO/IEC 27000 series \nstandards. (20 marks)",
+      "Discuss the types of security incidents that may be caused by employees and how they may \nimpact a business. (20 marks)",
+      "Explain how a complete and effective investigation should be conducted in the event of a \nsecurity breach. (20 marks)",
+      "Use examples to illustrate how to design scenarios to test for specific security vulnerabilities in \na web application. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 3 \u2013 organisational security ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss FOUR key electronic security threats and their associated risks to an organisation\u2019s data \nand function. (20 marks)",
+      "Analyse how an IT security policy for a large commercial organisation may be developed and \nthen reviewed for effectiveness. (20 marks)",
+      "You have a client who uses a proprietary app on a smartphone to project advertisements on a \nlarge digital screen beside the main road, which are then viewed by car drivers and pedestrians. \nThe link between the smartphone and the screen is Bluetooth. The advertisement display can be \nchanged by your client and their customers using an app on personal devices linked to the \nsmartphone by 4G. The smartphone has a 4G link to your client\u2019s confidential server via an \ninternet router located in their office as shown in Figure 1.",
+      "Question 4",
+      "Question 5"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "\fAnalyse the types and severity of possible security incidents that could affect your client. \n(20 marks)",
+      "With reference to your answer to Question 3, describe how any security incidents should be \ninvestigated and the role of your client\u2019s security policy in the investigation. (20 marks)",
+      "Compare and contrast open simulation and blind simulation as methods of testing an \norganisation\u2019s security processes, highlighting the strengths and weaknesses of each.(20 marks)"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": " unit 3 \u2013 organisational security ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Identify and describe software tools with which you are familiar and explain how they may \nsupport the management of a project. (20 marks)",
+      "A large university wants to make all its course lectures and materials available online to its \nstudents. Discuss the process of creating the targets and goals of this project, and explain \nhow to assess their implications as the project progresses. (20 marks)",
+      "Discuss the criteria that may be applied by a manager in selecting a methodology suitable \nfor a given project, and explain how a project management methodology would generally \nsupport the work of a project manager. (20 marks)",
+      "Identify and describe tools that can be used to monitor the outputs of each stage of a \nproject and generate reports on progress and outcomes. (20 marks)",
+      "Identify and describe the essential activities involved in the closing stages of a project from \ncustomer sign-off through to lessons learned. (20 marks"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 4 \u2013 it project management ",
+    "year": "2021-02",
+    "serie": "Dec-2020"
+  },
+  {
+    "queston": [
+      "Explain how to evaluate a project proposal, select the methods for its development and \nfinally how to appraise its success or failure. (20 marks)",
+      "The IT systems of three large hospitals are being merged to provide cost savings in the \nadministration department. As a project manager, explain how the goals of the merger \nproject should be set and how to evaluate their operational impact and benefits. \n(20 marks)",
+      "Compare and contrast the Agile project management methodology with the SCRUM \nmethod, indicating the advantages and disadvantages of each. (20 marks)",
+      "Discuss methods of producing IT project plans and reporting on progress and outcomes.\n(20 marks)",
+      "Explain how to write a final project report to present to an organisation\u2019s Board of Directors \nand describe its importance to the client and the project management team. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 4 \u2013 it project management ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the principles of project management and explain how to conduct post-project \nappraisals. (20 marks) ",
+      "Explain how a new IT project is defined, the scope outlined and the goals to be achieved \ndecided. (20 marks) ",
+      "Identify a project management methodology and explain how the project milestones are \nproduced, how the task structure is provided and how estimates of time and cost are \nmade. (20 marks)  ",
+      "Describe how IT project plans are produced and how the collection of stage output is \nmanaged and used to inform progress. (20 marks) ",
+      "Analyse how to close an IT project and how to critically assess the likely impact and actual \noutcomes. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "Question 5 ",
+      " \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 4 \u2013 it project management ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Analyse the principles of a process-based project management methodology with which \nyou are familiar. (20 marks)",
+      "A large government department is moving to larger premises and needs to maintain \ncontinuity of IT services. Explain how to outline the scope of this project and how to set the \ngoals. (20 marks) ",
+      "Discuss the criteria that would be applied to evaluate the success or otherwise of an IT \nproject. (20 marks)",
+      "Describe the different stages of an Information Technology project implementation and for \neach discuss the activities, services and products that result. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5\nIdentify and describe the effective methods a project manager can use to assess project \nprogress. (20 marks)"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 4 \u2013 it project management ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Identify ONE project management methodology with which you are familiar and describe FOUR \nassociated principles. (20 marks)",
+      "Discuss FOUR  project initiation activities when embarking on a new IT installation. (20 marks)",
+      "Discuss the advantages and disadvantages of using the PRINCE2 management methodology \nwhen developing a new IT project. (20 marks)",
+      "Describe the output from each of the following phases of project management and how it is \nused to measure progress:\u2022initiation\u2022planning\u2022monitoring and control\u2022closure(20 marks)",
+      "Your client\u2019s IT installation project is coming to a close. They ask you for advice on how to write \nthe final project report to be presented to the Board of Directors. Explain what the aims of the \nreport should be, what sections it should contain, the considerations when writing it and the \nexpected benefits of the report to the organisation. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 4 \u2013 it project management ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Discuss the components and features of the client-server model of web architecture, \ntogether with its benefits and limitations (20 marks) ",
+      "Explain how an organisation decides which strategies to employ for improving the \navailability of its e-commerce platform. (20 marks)",
+      "Describe effective strategies for network data caching in a distributed database \nenvironment. (20 marks)",
+      "With reference to Payment Card Industry Data Security Standard (PCI-DSS), explain how \nencryption standards help ensure the security of online financial transactions. (20 marks)",
+      "Describe the functional units and systems responsible for end-to-end platform and \nservice provision in an e-commerce environment. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 5 \u2013 scalable web and e-commerce ",
+    "year": "2021-02",
+    "serie": "Dec-2020"
+  },
+  {
+    "queston": [
+      "Discuss the criteria for increasing the scalability of a web platform and describe the different \ndevices and methodologies required. (20 marks)",
+      "Describe the risks to a business of operating a poorly performing e-commerce platform and\ndiscuss strategies for improvement. (20 marks). ",
+      "Explain how to plan the deployment of a distributed database, including references to \nConsistency / Availability / Partition tolerance (CAP theory) and Atomicity, Consistency, \nIsolation, Durability (ACID) attributes. (20 marks)",
+      "Explain how the regular review and updating of an organisation\u2019s cybersecurity plans and \nrisk assessments would help to ensure the security of an e-commerce platform. (20 marks)",
+      "In an enterprise integration example, explain how a service-driven approach would support \nsystems and functional units in an end-to-end platform and service provision. (20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 5 \u2013 scalable web and e-commerce ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Explain how to determine the full requirements for an online e-commerce presence, \nincluding how to estimate the physical space and hardware and software resources.  ",
+      "Question 2 ",
+      "Question 3 ",
+      "Question 4 ",
+      "(20 marks) ",
+      "Discuss the principles and foundations of the service-driven approaches to e-commerce \nplatform integration of Service Oriented Architecture (SOA) and Representational State \nTransfer (RESTful) architectures. (20 marks) "
+    ],
+    "questionNum": [
+      "Question 1 ",
+      "(20 marks) ",
+      "Discuss the purpose of analytics and use examples to explain its benefits to organisations \nwith an e-commerce platform. (20 marks) ",
+      "Describe FOUR testing strategies for enterprise web applications. (20 marks) ",
+      "Discuss methods of protecting confidential data in web-accessible databases and server \nmemory, and the benefits of using encryption standards and transaction processing.  ",
+      "Question 5 ",
+      " \n \n \n \n \n \n\f"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 5 \u2013 scalable web and e-commerce ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Compare and contrast single-tier and multi-tier architecture as e-commerce platforms.\n(20 marks)",
+      "Discuss the strategies used by organisations to promote e-commerce growth and grow \nrevenue. (20 marks)",
+      "Explain how network partitioning affects the consistency and availability of a distributed \ndatabase for an e-commerce organisation. (20 marks)",
+      "Discuss the adverse impact on a competitive e-commerce business of security incidents \nresulting from compromised transactions. (20 marks)",
+      "Discuss the defining concepts of a service-driven architecture and its benefits to e-commerce. \n(20 marks)"
+    ],
+    "questionNum": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4",
+      "Question 5"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 5 \u2013 scalable web and e-commerce ",
+    "year": "2021-02",
+    "serie": null
+  },
+  {
+    "queston": [
+      "Evaluate two-tier web architecture and its suitability for a large scale e-commerce platform. \n(20 marks) ",
+      "Explain how to improve the scalability of a web-based retail application. (20 marks)",
+      "\u2022weekl\n\u2022monthly\n\u2022quarterly\n\u2022yearly",
+      "Question 4",
+      "Question 5",
+      " \n \n \n \n\f"
+    ],
+    "questionNum": [
+      " Question 1",
+      "Question 2",
+      "Using the schedule below, describe an effective time-sensitive maintenance strategy for each \nperiod which would help ensure the smooth running of an e-commerce platform:",
+      "(20 marks) ",
+      "Evaluate which methods are most effective for securing an e-commerce website. (20 marks)",
+      "Describe what is meant by \u2018Service\u2019 in the context of Service Oriented Architecture (SAO) and \nillustrate how SOA is used to address the most common enterprise challenges. (20 marks)"
+    ],
+    "pg": "COMPUTING AND INFORMATION SYSTEMS ",
+    "level": "Level 6 Diploma ",
+    "unit": "Unit 5 \u2013 scalable web and e-commerce ",
+    "year": "2021-02",
+    "serie": null
+  }
+]

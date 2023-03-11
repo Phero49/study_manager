@@ -7,6 +7,7 @@ class TimerWidget extends StatefulWidget {
   String unit;
   String lesson;
   String outcome;
+  DateTime startTime = DateTime.now();
 
   TimerWidget(
       {Key? key,
@@ -20,7 +21,11 @@ class TimerWidget extends StatefulWidget {
   _TimerWidgetState createState() => _TimerWidgetState();
 }
 
-class _TimerWidgetState extends State<TimerWidget> {
+class _TimerWidgetState extends State<TimerWidget>
+    with AutomaticKeepAliveClientMixin<TimerWidget> {
+  @override
+  bool get wantKeepAlive => true;
+  DateTime startTime = DateTime.now();
   int seconds = 0;
   int minutes = 0;
   int hours = 0;
@@ -28,7 +33,7 @@ class _TimerWidgetState extends State<TimerWidget> {
   bool isPoused = false;
 
   void timerStart() {
-    _timer = Timer.periodic(Duration(seconds: 1), (timer) {
+    _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
       setState(() {
         seconds++;
 
@@ -66,6 +71,8 @@ class _TimerWidgetState extends State<TimerWidget> {
 
   @override
   Widget build(BuildContext context) {
+    super.build(context);
+
     return Container(
         // Widget code goes here
         child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
@@ -95,6 +102,21 @@ class _TimerWidgetState extends State<TimerWidget> {
           ElevatedButton.icon(
               onPressed: () {
                 _timer!.cancel();
+                var db = Db();
+                Map data = {
+                  'unit': widget.unit,
+                  'lesson': widget.lesson,
+                  'outcome': widget.outcome,
+                  'startTime': widget.startTime,
+                  'endTime': DateTime.now()
+                };
+                db.addDailyRecord(data).then((_) {
+                  ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                    content: Text('progress saved '),
+                    duration: Duration(seconds: 3),
+                  ));
+                });
+
                 // Perform stop action
               },
               label: Text('Stop'),
@@ -102,14 +124,12 @@ class _TimerWidgetState extends State<TimerWidget> {
           ElevatedButton.icon(
               onPressed: () {
                 if (isPoused) {
-                  setState(()=>{
-                  timerStart();
-
-                  });
+                  isPoused = !isPoused;
+                  setState(() => {timerStart()});
                 } else {
-                  setState((){
-                 _timer!.cancel();
-                  
+                  setState(() {
+                    _timer!.cancel();
+                    isPoused = !isPoused;
                   });
                 }
               },

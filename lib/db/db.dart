@@ -1,8 +1,10 @@
 import 'dart:convert';
+//import 'dart:ffi';
 import 'package:flutter/services.dart';
 import 'package:hive/hive.dart';
 import 'dart:io';
 import './myData.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 
 class Db {
   String _recordBox = "Records";
@@ -99,7 +101,7 @@ class Db {
     box.close();
   }
 
-  void addRecord(Map record) async {
+  Future<void> addDailyRecord(Map record) async {
     final box = await Hive.openBox(_recordBox);
 
     box.add(record);
@@ -107,22 +109,63 @@ class Db {
 
   Future<List> getRecords() async {
     final box = await Hive.openBox(_recordBox);
-    var keys = box.keys.toList();
-
-    for (String key in keys) {
-      var unit = box.get(key);
-      print(unit);
-    }
+    DateTime now = DateTime.now();
+    DateTime startDate = now.subtract(Duration(days: 7));
+    DateTime endDate = now;
+    List dataList = box.values
+        .where((item) =>
+            item.startTime.isAfter(startDate) &&
+            item.startTime.isBefore(endDate))
+        .toList();
+    print(dataList);
     return [];
   }
 }
 
-///@HiveType (typeId: 0)
 /*
-class DailyRecod {
+@HiveType (typeId: 0)
 
+class DailyRecord {
+  int startTime;
+  int endTime;
+  String unit;
+  String outcome;
+  String lesson;
+  DailyRecord(
+      {required this.endTime,
+      required this.lesson,
+      required this.outcome,
+      required this.startTime,
+      required this.unit});
 }
 
-DailyRecordAdapter extends TypeAdopter<DailyRecod>{
+class DailyRecordAdapter extends TypeAdapter<DailyRecord> {
+  @override
+  final int typeId = 0; // unique identifier for the adapter
 
-}*/
+  @override
+  DailyRecord read(BinaryReader reader) {
+    final startTime = reader.readInt();
+    final endTime = reader.readInt();
+    final unit = reader.readString();
+    final outcome = reader.readString();
+    final lesson = reader.readString();
+    return DailyRecord(
+      startTime: startTime,
+      endTime: endTime,
+      unit: unit,
+      outcome: outcome,
+      lesson: lesson,
+    );
+  }
+
+  @override
+  void write(BinaryWriter writer, DailyRecord record) {
+    writer.writeInt(record.startTime);
+    writer.writeInt(record.endTime);
+    writer.writeString(record.unit);
+    writer.writeString(record.outcome);
+    writer.writeString(record.lesson);
+  }
+}
+*/
